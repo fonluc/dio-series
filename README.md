@@ -16,6 +16,6 @@
 - Paradigma de Orientação a Objetos.
 
   <p align="center">
-  <img src="https://github.com/fonluc/dio-series/blob/main/dioseries-interface.png" alt="dioseries-code" border="0">
+  <img src="https://github.com/fonluc/dio-series/blob/main/dioseries-code.png" alt="dioseries-code" border="0">
   </p>
 
