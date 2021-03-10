@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://github.com/fonluc/dioseries/blob/main/github/dioseries-interface.png" alt="dioseries-interface" border="0">
+<img src="https://github.com/fonluc/dio-series/blob/main/dioseries-interface.png" alt="dioseries-interface" border="0">
 </p>
 
 
